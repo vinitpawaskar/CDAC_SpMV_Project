@@ -1,0 +1,5 @@
+This directory contains Intel MKL codes for SpMV multiplication with unstructured (random) double precision matrix.
+
+- make : To compile the files
+- make run : To run the output file
+- make clean : Clean output files
