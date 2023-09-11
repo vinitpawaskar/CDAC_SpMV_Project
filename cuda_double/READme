@@ -1,0 +1,5 @@
+This directory contains CUDA codes for SpMV multiplication with structured (tri-diagonal) double precision matrix.
+
+- make : To compile the files
+- make run : To run the output file
+- make clean : Clean output files
