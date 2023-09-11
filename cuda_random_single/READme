@@ -1,0 +1,5 @@
+This directory contains CUDA codes for SpMV multiplication with unstructured (random) double precision matrix. Each row is 95% sparse.
+
+- make : To compile the files
+- make run : To run the output file
+- make clean : Clean output files
